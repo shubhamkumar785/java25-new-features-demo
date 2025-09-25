@@ -49,11 +49,6 @@ It helps beginners and developers quickly understand the latest updates in Java.
    javac FeatureExample.java
    java FeatureExample
 
-📚 Resources
-**Java 25 Release Notes**
-**JEP 445 – Unnamed Classes and Instance Main Methods**
-**JEP 482 – Flexible Constructor Bodies**
-**JEP 480 – Scoped Values**
 
 ## 🤝 Contributing
 Pull requests are welcome! Feel free to add more examples or improve explanations.
