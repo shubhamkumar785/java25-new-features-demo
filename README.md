@@ -1,4 +1,4 @@
-# Java 25 New Features Demo 🚀
+# Java 25 New Features 🚀
 
 This repository contains examples of **Java 25 language enhancements** with simple code snippets and explanations.  
 It helps beginners and developers quickly understand the latest updates in Java.
