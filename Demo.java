@@ -66,12 +66,3 @@
 
 //  7. Scoped Values - Java 25 adds “scoped values” which allow sharing immutable data within a thread context (and child threads), safer and more efficient than traditional ThreadLocal.
 
-static final ScopedValue<String> NAME_CONTEXT = ScopedValue.newInstance();
-
-void main() {
-    ScopedValue.where(NAME_CONTEXT, "substring Technologies").run(() -> {
-        IO.println("Hi how are you??");
-        IO.println("I am fine");
-        IO.println("Hello " + NAME_CONTEXT.get());
-    });
-}
